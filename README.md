@@ -1,6 +1,9 @@
 Navigate Bars
 =============
 
+Screen shot here
+http://myteenatanwit.github.io/NavBars
+
 This template is used in various project. 
 The icons from http://dryicons.com/free-icons png format in different sets of size.
 I use http://css.spritegen.com to make the sprites and css.
